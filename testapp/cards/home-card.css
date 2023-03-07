@@ -1,0 +1,70 @@
+/* Home page */
+
+.card-service{
+  /* // border: 1px solid black; */
+  width: 100%;
+  display: flex;
+
+}
+
+.feuille-service {
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  width: 100%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #5B98A8;
+}
+
+.titre-tableau{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.titre-card{
+  width: 25%;
+  padding: 10px;
+}
+
+.titre-service{
+  display: flex;
+  justify-content: center;
+}
+
+.tableau-info{
+  /* // border: 1px solid red; */
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.titre-cardD-fin{
+  /* // border: 1px solid red; */
+  width: 53%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.card-info{
+  /* // border: 1px solid blue; */
+  border-right: 2px solid #296B6B;
+  padding: 25px;
+  width: 25%;
+}
+
+.card-info-fin{
+  /* // border: 1px solid blue;
+  //  .border-right: 2px solid #296B6B; */
+  padding: 25px;
+  width: 25%;
+}
+
+.btn-tableau{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}

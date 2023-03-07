@@ -1,0 +1,39 @@
+
+.container{
+  width: 65%;
+}
+
+.feuille-contact{
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  width: 100%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #5B98A8;
+
+}
+
+.card-email{
+  /* border: 1px solid red; */
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.email{
+  margin-top: 5px;
+  width: 500px;
+}
+
+.card-devis{
+  /* border: 1px solid red; */
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.devis{
+  margin-top: 5px;
+  width: 100%;
+  height: 400px;
+}

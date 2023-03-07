@@ -1,0 +1,44 @@
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.box-3d{
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: space-around;
+  margin: 5.5%;
+}
+
+.feuille-show{
+  background: white;
+  border-radius: 15px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  width: 50%;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  border: 1px solid #5B98A8;
+
+}
+
+iframe{
+  border-radius: 15px;
+  width: 500px;
+  height: 500px;
+}
+
+.text-show{
+  padding: 20px;
+  height: 90%;
+
+}
+
+.btn-show{
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo-card{
+  color: #5B98A8;
+}
